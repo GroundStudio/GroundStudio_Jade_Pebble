@@ -8,7 +8,7 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-Development board based on SAMD21E18A.
+Very small SAMD21E18A based development board wih 48 MHz 32 bit processor, 256kBytes of Programmable Flash program memory, 32kBytes Internal SRAM, 6 Capacitive Touch sensing (PTC), 9 PWM Channels, 11 Digital Pins, 9 channel 12 bit ADC Pins and built in RGB NeoPixel LED.
 
 Contents
 -------------------
@@ -25,8 +25,9 @@ Versions
 License
 -------------------
 
-This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. 
+This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license.
+**You are welcome to use this for commercial purposes.**
 
-Please consider contributing back to help the open-source hardware community continue to thrive and grow! 
+Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow!
 
 

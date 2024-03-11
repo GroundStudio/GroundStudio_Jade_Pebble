@@ -30,4 +30,11 @@ This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow!
 
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000005.html)   
+   
+[![certification-mark-RO000005-wide](https://github.com/GroundStudio/GroundStudio_Jade_Pebble/assets/77836107/a64bccb6-012a-49d2-86a2-9c0a995de8b2)
+](https://certification.oshwa.org/ro000005.html)
+
 

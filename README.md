@@ -2,9 +2,9 @@ GroundStudio Jade Pebble
 ====================================
 [![KASV939](https://user-images.githubusercontent.com/77836107/184095953-28df6d6f-3073-44e5-8bf5-e55cc28ea3c4.png)](https://ardushop.ro/ro/placi-de-dezvoltare/1724-placa-de-dezvoltare-jade-pebble.html)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/placi-de-dezvoltare/1724-placa-de-dezvoltare-jade-pebble.html)
+Get it from [ardushop.ro](https://ardushop.ro/en/development-boards/1052-placa-de-dezvoltare-jade-pebble-6427854000668.html)
 
-Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
